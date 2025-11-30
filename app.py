@@ -53,7 +53,7 @@ st.markdown("---")
 
 # error handling for proper model loading
 try:
-    model = joblib.load("model/movie_model.pkl")
+    model = joblib.load("Model/movie_model.pkl")
     
     # model weights graph
 
