@@ -44,11 +44,11 @@ def sidebar_config():
         col1, col2 = st.columns([0.1, 0.5], gap="medium")   
 
         with col1:
-            st.image("social media icons/github.png")
+            st.image("Social media icons/github.png")
             st.markdown("[Github](https://github.com/harshita0124)")
 
         with col2:
-            st.image("social media icons/linkedin.png")
+            st.image("Social media icons/linkedin.png")
             st.markdown("[Linkedin](https://www.linkedin.com/in/hgupta3021/)")
 
 
