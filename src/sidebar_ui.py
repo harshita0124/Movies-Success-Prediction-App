@@ -6,7 +6,7 @@ import streamlit as st
 
 def sidebar_config():
     st.sidebar.title("Movie Success Prediction on the basis of Gross collection")
-    st.sidebar.image("image/boxoffice_image.png")
+    st.sidebar.image("Image/boxoffice_image.png")
     st.sidebar.markdown("---")
     st.sidebar.info(
         """
